@@ -1,5 +1,5 @@
 import React from 'react';
-import FetchAPI from './components/fetchAPI';
+import FetchAPI from "./components/FetchAPI";
 
 function App() {
   
